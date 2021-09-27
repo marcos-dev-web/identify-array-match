@@ -1,0 +1,16 @@
+C:\Users\marco\Desktop\MultiDimensionalArray\obj\Debug\net5.0\MultiDimensionalArray.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\MultiDimensionalArray\obj\Debug\net5.0\MultiDimensionalArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\MultiDimensionalArray\obj\Debug\net5.0\MultiDimensionalArray.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\MultiDimensionalArray\obj\Debug\net5.0\MultiDimensionalArray.AssemblyInfo.cs
+C:\Users\marco\Desktop\MultiDimensionalArray\obj\Debug\net5.0\MultiDimensionalArray.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\MultiDimensionalArray\bin\Debug\net5.0\MultiDimensionalArray.exe
+C:\Users\marco\Desktop\MultiDimensionalArray\bin\Debug\net5.0\MultiDimensionalArray.deps.json
+C:\Users\marco\Desktop\MultiDimensionalArray\bin\Debug\net5.0\MultiDimensionalArray.runtimeconfig.json
+C:\Users\marco\Desktop\MultiDimensionalArray\bin\Debug\net5.0\MultiDimensionalArray.runtimeconfig.dev.json
+C:\Users\marco\Desktop\MultiDimensionalArray\bin\Debug\net5.0\MultiDimensionalArray.dll
+C:\Users\marco\Desktop\MultiDimensionalArray\bin\Debug\net5.0\ref\MultiDimensionalArray.dll
+C:\Users\marco\Desktop\MultiDimensionalArray\bin\Debug\net5.0\MultiDimensionalArray.pdb
+C:\Users\marco\Desktop\MultiDimensionalArray\obj\Debug\net5.0\MultiDimensionalArray.dll
+C:\Users\marco\Desktop\MultiDimensionalArray\obj\Debug\net5.0\ref\MultiDimensionalArray.dll
+C:\Users\marco\Desktop\MultiDimensionalArray\obj\Debug\net5.0\MultiDimensionalArray.pdb
+C:\Users\marco\Desktop\MultiDimensionalArray\obj\Debug\net5.0\MultiDimensionalArray.genruntimeconfig.cache
